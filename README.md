@@ -1,7 +1,9 @@
 ## Olá!! sou o José Motta
 📚Atualmente estudo Analise e Desenvolvimento de Sistemas<br>
 ✍️Iniciante no mundo da Programação<br>
+✍️Iniciante no GitHub<br>
 ✔️Front-end e Algoritmos
+
 
 ##
 
