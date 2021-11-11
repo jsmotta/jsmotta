@@ -1,6 +1,13 @@
-## Olá!! sou o José Motta
-📚Atualmente estudo Analise e Desenvolvimento de Sistemas<br>
-✔️Front-end e Algoritmos
+## Hi, My Name is José Motta
+🥳 20 years old
+<br>
+📚 Currently studying Analysis and Systems Development in FATEC Guaratinguetá
+<br>
+✔️ 5 Months of Experience 
+<br>
+🌱 HTML and CSS
+<br>
+🌱 C++
 
 
 ##
