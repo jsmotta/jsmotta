@@ -7,7 +7,7 @@
 <br>
 🌱 HTML and CSS
 <br>
-🌱 C++, Python, Javascript qnd Java.
+🌱 C++, Python, Javascript and Java.
 <br>
 🌱 Bootstrap
 
