@@ -3,11 +3,14 @@
 <br>
 📚 Currently studying Analysis and Systems Development in FATEC Guaratinguetá
 <br>
-✔️ 5 Months of Experience 
+✔️ 1 year of Experience 
 <br>
 🌱 HTML and CSS
 <br>
-🌱 C++
+🌱 C++, Python, Javascript qnd Java.
+<br>
+🌱 Bootstrap
+
 
 
 ##
