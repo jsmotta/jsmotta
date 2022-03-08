@@ -1,7 +1,7 @@
 ## Hi, My Name is José Motta
 🥳 20 years old
 <br>
-📚 Currently studying Analysis and Systems Development in FATEC Guaratinguetá
+📚 Analysis and Systems Development in FATEC Guaratinguetá
 <br>
 ✔️ 1 year of Experience 
 <br>
