@@ -3,11 +3,9 @@
 <br>
 📚 Analysis and Systems Development in FATEC Guaratinguetá
 <br>
-✔️ 1 year of Experience 
-<br>
 🌱 HTML and CSS
 <br>
-🌱 C++, Python, Javascript and Java.
+🌱 C++,Javascript and Java.
 <br>
 🌱 Bootstrap
 
